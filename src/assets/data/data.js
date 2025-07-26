@@ -6,7 +6,7 @@ export const data = {
             child: 'Anak kedua dari',
             father: 'Muhammad Ali Nafiah',
             mother: 'Sri Yuliati',
-            image: './src/assets/images/image16.png'
+            image: './src/assets/images/image17.png'
         },
         P: {
             id: 2,
@@ -17,7 +17,7 @@ export const data = {
             image: './src/assets/images/image15.png'
         },
 
-        couple: './src/assets/images/image14.png'
+        couple: './src/assets/images/image18.png'
     },
 
     time: {
