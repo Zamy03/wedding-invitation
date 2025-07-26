@@ -10,7 +10,7 @@ export const data = {
         },
         P: {
             id: 2,
-            name: 'Nanda Vriska Octaviana',
+            name: 'Nanda Vriska Oktaviana',
             child: 'Anak pertama dari',
             father: 'Deni Hermawan',
             mother: 'Subekti Rihwangi',
